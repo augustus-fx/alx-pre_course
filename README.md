@@ -1,9 +1,9 @@
 My first readme
 
-In alx software academic , am glad to be here
+In alx software academic, I am glad to be here
 
 AM LEARNING 
-DevOps & FullStack Software Engineer | Network Engineer | Data Scientist, Analyst & Researcher | Movie Actor | Sound, Media & Product Engineer | ICT consultant.
+DevOps & FullStack Software Engineer
 
-thank AlX for this oppuntunity
+I am Here to do Hard things with ALX
 
