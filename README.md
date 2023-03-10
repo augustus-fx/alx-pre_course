@@ -6,4 +6,5 @@ AM LEARNING
 DevOps & FullStack Software Engineer
 
 I am Here to do Hard things with ALX
+I am loving it
 
